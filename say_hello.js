@@ -14,4 +14,4 @@ function say_hello(name){
 say_hello("colman");
 say_hello("amaris");
 say_hello("sam");
-say_hello("alex")
+say_hello("alex");
