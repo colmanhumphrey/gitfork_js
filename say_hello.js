@@ -3,15 +3,15 @@
 // but it's not working.. :(
 // Can you fix it?
 function say_hello(name){
-    let throw = name.length;
+    let nameLength = name.length;
 
-    consol.log("Helle, " + name + "! Your name has " + \
-		toString(throw) + " characters");
+    console.log("Hello, " + name + "! Your name has " + 
+		nameLength.toString() + " characters");
 }
 
+
 // check all these:
-	       
 say_hello("colman");
 say_hello("amaris");
-say_helly("sam");
+say_hello("sam");
 say_hello("alex");
